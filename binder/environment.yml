@@ -1,0 +1,8 @@
+name: binder-environment
+channels:
+  - damianavila82
+  - conda-forge
+dependencies:
+  - matplotlib
+  - pandas
+  - rise
